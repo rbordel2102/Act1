@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartelera>
+
+    <peliculaestreno xmlns="https://www.filmaffinity.com/es/main.html/1">
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Dohrn</apellido1>       
+                <nombre>Walt</nombre>
+            </director>
+            <guionista>
+                <apellido1>Berger</apellido1>          
+                <nombre>Glenn</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            TROLLS 3: TODOS JUNTOS
+        </titulo>
+        <categoria>
+            Animación
+        </categoria>
+        <fechaPublicacion>
+            27 de octubre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            3,8
+        </puntuacion>
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Tammi</apellido1>        
+                <nombre>Emma</nombre>
+            </director>
+            <guionista>
+                <apellido1>Tammi</apellido1>
+                <nombre>Emma </nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            FIVE NIGHTS AT FREDDY'S
+        </titulo>
+        <categoria>
+            Terror
+        </categoria>
+        <fechaPublicacion>
+            1 de noviembre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            4,6 
+        </puntuacion>
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Trueba</apellido1>   
+                <nombre>David</nombre>
+            </director>
+            <guionista>
+                <apellido1>Trueba</apellido1>
+                <nombre>David</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            SABEN AQUELL
+        </titulo>
+        <categoria>
+            Comedia
+        </categoria>
+        <fechaPublicacion>
+            1 de noviembre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            Sin puntuación
+        </puntuacion>
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Brunker</apellido1>     
+                <nombre>Cal</nombre>
+            </director>
+            <guionista>
+                <apellido1>Barlen</apellido1>
+                <nombre>Bob</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            LA PATRULLA CANINA: LA SUPERPELÍCULA
+        </titulo>
+        <categoria>
+            Animación
+        </categoria>
+        <fechaPublicacion>
+            11 de octubre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            3,0
+        </puntuacion>
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Gordon</apellido1>
+                <apellido2>Green</apellido2>     
+                <nombre>David</nombre>
+            </director>
+            <guionista>
+                <apellido1>Sattler</apellido1>
+                <nombre>Petter</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            EL EXORCISTA: CREYENTE
+        </titulo>
+        <categoria>
+            Terror
+        </categoria>
+        <fechaPublicacion>
+            6 de octubre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            2,6
+        </puntuacion>
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Yunfei</apellido1>
+                <nombre>Wang</nombre>
+            </director>
+            <guionista>
+                <apellido1>Yunfei</apellido1>
+                <nombre>Wang</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            BILL KWAI Y EL ASALTO AL MUSEO
+        </titulo>
+        <categoria>
+            Animación
+        </categoria>
+        <fechaPublicacion>
+            3 de noviembre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            Sin puntuación
+        </puntuacion>
+    </peliculas>
+    </peliculaestreno>
+
+    <peliculaantigua xmlns="https://www.filmaffinity.com/es/main.html/2">
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>DaCosta</apellido1>
+                <nombre>Nia</nombre>
+            </director>
+            <guionista>
+                <apellido1>Karasik</apellido1>
+                <nombre>Elissa</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            THE MARVELS
+        </titulo>
+        <categoria>
+            Acción
+        </categoria>
+        <fechaPublicacion>
+            9 de noviembre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            2,9 
+        </puntuacion>
+    </peliculas>
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido2>Filho</apellido2>
+                <apellido1>Mendonça</apellido1>  
+                <nombre>Kleber</nombre>
+            </director>
+            <guionista>
+                <apellido2>Filho</apellido2>
+                <apellido1>Mendonça</apellido1>
+                <nombre>Kleber</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            RETRATOS FANTASMA 
+        </titulo>
+        <categoria>
+            Documental
+        </categoria>
+        <fechaPublicacion>
+            3 de noviembre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            Sin puntuación
+        </puntuacion>
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>McQuarrie</apellido1>
+                
+                <nombre>Christopher</nombre>
+            </director>
+            <guionista>
+                <apellido1>McQuarrie</apellido1>     
+                <nombre>Christopher</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            MISIÓN: IMPOSIBLE - SENTENCIA MORTAL
+        </titulo>
+        <categoria>
+            Acción
+        </categoria>
+        <fechaPublicacion>
+            12 de julio de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            4,0
+        </puntuacion>    
+    </peliculas>
+
+    <peliculas>
+        <produccion>
+            <director>
+                <apellido1>Scorsese</apellido1>                
+                <nombre>Martin</nombre>
+            </director>
+            <guionista>
+                <apellido1>Roth</apellido1>
+                <nombre>Eric</nombre>
+            </guionista>
+        </produccion>
+        <titulo>
+            LOS ASESINOS DE LA LUNA
+        </titulo>
+        <categoria>
+            Suspense
+        </categoria>
+        <fechaPublicacion>
+            20 de octubre de 2023
+        </fechaPublicacion>
+        <puntuacion>
+            4,4
+        </puntuacion>   
+    </peliculas>
+    </peliculaantigua>
+
+</cartelera>
